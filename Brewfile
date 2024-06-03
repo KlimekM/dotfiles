@@ -1,5 +1,5 @@
 tap "homebrew/bundle"
-brew "docker"
+cask "docker"
 cask "insomnia"
 cask "intellij-idea-ce"
 cask "iterm2"
